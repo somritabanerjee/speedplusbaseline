@@ -1,10 +1,10 @@
 import argparse
 
 PROJROOTDIR = {'mac':  '/Users/taehapark/SLAB/speedplusbaseline',
-               'linux': '/media/shared/Jeff/SLAB/speedplusbaseline'}
+               'linux': '/home/somrita/Documents/Satellite_Pose_Estimation/speedplusbaseline'}
 
 DATAROOTDIR = {'mac':  '/Users/taehapark/SLAB/speedplus/data/datasets',
-               'linux': '/home/jeffpark/SLAB/Dataset'}
+               'linux': '/home/somrita/Documents/Satellite_Pose_Estimation/dataset'}
 
 parser = argparse.ArgumentParser('Configurations for SPEED+ Baseline Study')
 
